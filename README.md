@@ -9,6 +9,3 @@ DYB include RyangGyouKim,JunYoungChoi,YujungAhn with Prof JungKiYoo.
 
 #CONTACT
 RyangGyouKim - yangguq@gmail.com
-JunYoungChoi - 
-YouJungAhn -
-
